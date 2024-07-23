@@ -13,4 +13,4 @@ CSS Flexbox & Grid: Utilizes CSS Flexbox and Grid for layout design.
 
 
 Clone the repository:
-git clone https://github.com/Haleem200/Interior-designtemplate.git
+git clone https://github.com/Haleem200/Interior-design-company.git
